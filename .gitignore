@@ -1,5 +1,5 @@
 .DS_Store
-
+.npy
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,pycharm,pycharm+all,jupyternotebooks,vim
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,pycharm,pycharm+all,jupyternotebooks,vim
 
